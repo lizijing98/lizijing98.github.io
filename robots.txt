@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /photos/
+Disallow: /*.css
+Disallow: /*.js
+
+Sitemap: https://lizijing98.github.io/baidusitemap.xml
+Sitemap: https://lizijing98.github.io/googlesitemap.xml
